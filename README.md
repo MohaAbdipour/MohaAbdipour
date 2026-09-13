@@ -11,11 +11,15 @@ I am an environmental data analyst focused on turning hydrological, geospatial, 
 - 📊 Statistics, uncertainty, and environmental data visualisation
 - 🤖 Machine learning for prediction, classification, and model interpretation
 
-## Flagship project
+## Selected study
 
-### [UK Flood Hydrology](https://github.com/MohaAbdipour/uk-flood-hydrology)
+### [Flood hydrology of the Water of Leith at Murrayfield](https://github.com/MohaAbdipour/water-of-leith-flood-hydrology)
 
-A reproducible, UK-focused demonstration of an end-to-end flood-modelling workflow: synthetic catchment generation, event rainfall–runoff simulation, hydrograph routing, geospatial outputs, validation metrics, and interpretable machine-learning baselines. The repository uses only synthetic or openly licensed data and is designed to be easy to audit and reproduce.
+An investigation of observed high flows in an urban Scottish catchment using
+sub-hourly discharge, gridded rainfall and open geospatial data. The study
+compares annual-maximum and peaks-over-threshold frequency estimates, quantifies
+sampling and model uncertainty, and examines flood seasonality, rainfall–runoff
+response, terrain and regional high-flow behaviour.
 
 ## Technical toolkit
 
