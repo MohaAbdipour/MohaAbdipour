@@ -9,7 +9,7 @@ resilience decisions.
 - 🌊 Hydrology and rainfall–runoff modelling
 - 🗺️ GIS, spatial analysis, and reproducible mapping
 - 🌧️ Flood-frequency analysis and catchment diagnostics
-- 🌍 Climate-data processing and scenario analysis
+- 🌍 Climate-change, GHG-emissions, carbon, and scenario analysis
 - 📊 Statistics, uncertainty, and environmental data visualisation
 - 🤖 Machine learning for prediction, classification, and model interpretation
 
