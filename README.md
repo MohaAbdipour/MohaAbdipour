@@ -1,40 +1,58 @@
-# Hi, I'm Moha 👋
+# Moha Abdipour
 
-I am an environmental data analyst working across hydrology, flood risk,
-geospatial analysis and climate data, with a focus on evidence for UK water and
-resilience decisions.
+I am an environmental data analyst applying hydrological, geospatial and
+statistical methods to flood, drought and climate-risk questions in the UK.
 
-## What I work on
+## Areas of work
 
-- 🌊 Hydrology and rainfall–runoff modelling
-- 🗺️ GIS, spatial analysis, and reproducible mapping
-- 🌧️ Flood-frequency analysis and catchment diagnostics
-- 🌍 Climate-change, GHG-emissions, carbon, and scenario analysis
-- 📊 Statistics, uncertainty, and environmental data visualisation
-- 🤖 Machine learning for prediction, classification, and model interpretation
+- Hydrology and rainfall-runoff modelling
+- Flood-frequency analysis and catchment diagnostics
+- Drought, low-flow and water-resources assessment
+- GIS, spatial analysis and environmental mapping
+- Climate-change risk, GHG emissions, carbon and Net Zero pathways
+- Statistical analysis, uncertainty assessment and environmental data visualisation
+- Machine learning for prediction, classification and model interpretation
 
-## Selected study
+## Selected projects
 
 ### [Flood hydrology of the Water of Leith at Murrayfield](https://github.com/MohaAbdipour/water-of-leith-flood-hydrology)
 
 An investigation of observed high flows in an urban Scottish catchment using
 sub-hourly discharge, gridded rainfall and open geospatial data. The study
-compares annual-maximum and peaks-over-threshold frequency estimates, quantifies
-sampling and model uncertainty, and examines flood seasonality, rainfall–runoff
-response, terrain and regional high-flow behaviour.
+compares annual-maximum and peaks-over-threshold frequency estimates and
+examines flood seasonality, rainfall-runoff response, terrain and regional
+high-flow behaviour. Across the fitted statistical distributions, the estimated
+100-year flood ranges from 73.9 to 102.2 m³/s, demonstrating the importance of
+model-selection uncertainty when extrapolating beyond the observed record.
 
-Using 31 complete water years, the fitted 100-year flood estimate ranges from
-73.9 to 102.2 m³/s across the statistical distributions, showing the importance
-of model-selection uncertainty when extrapolating beyond the observed record.
+### [Low-flow droughts in the upper River Wensum](https://github.com/MohaAbdipour/anglian-drought-water-resources)
 
-## Technical toolkit
+An observed-data assessment of drought duration and accumulated flow deficit at
+Fakenham, supported by regional precipitation and nearby Chalk-groundwater
+records. The 1991-2020 flow-duration curve gives Q90 = 0.274 m³/s. Mean annual
+days below Q90 increase from 12.8 in 1967-1985 to 30.4 in 2005-2023, but the
+block-bootstrap interval for the early-to-late difference includes zero. The
+study therefore characterises changing low-flow exposure without attributing a
+climate-driven trend where abstraction and sampling uncertainty remain relevant.
 
-`Python` · `pandas` · `NumPy` · `GeoPandas` · `Shapely` · `Rasterio` · `xarray` · `scikit-learn` · `SciPy` · `Matplotlib` · `Jupyter` · `Git` · `pytest`
+## Technical expertise
 
-## Working principles
+**Hydrology:** flood-frequency analysis, low-flow analysis, rainfall-runoff
+modelling and hydroclimatic diagnostics  
+**Spatial analysis:** GIS, GeoPandas, Rasterio, Shapely and catchment analysis  
+**Data science:** Python, R, pandas, NumPy, SciPy, xarray and scikit-learn  
+**Scientific practice:** uncertainty assessment, data provenance, testing, Git
+and GitHub Actions
 
-I value transparent assumptions, reproducible workflows, spatially aware validation, clear uncertainty communication, and analysis that connects technical results to real decisions.
+## Approach
 
-I am interested in UK opportunities across flood risk, water, environmental analytics, climate resilience, GIS, and applied data science.
+My work combines observed environmental data, clearly stated assumptions,
+traceable data provenance and explicit uncertainty assessment. I distinguish
+exploratory evidence from conclusions suitable for operational or design
+decisions.
 
-📍 UK · [LinkedIn](https://www.linkedin.com/in/moha-ap/)
+Based in the UK and interested in opportunities across flood risk, water
+resources, environmental analytics, climate resilience, GIS and applied data
+science.
+
+[LinkedIn](https://www.linkedin.com/in/moha-ap/)
