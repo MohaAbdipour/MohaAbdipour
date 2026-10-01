@@ -35,6 +35,17 @@ block-bootstrap interval for the early-to-late difference includes zero. The
 study therefore characterises changing low-flow exposure without attributing a
 climate-driven trend where abstraction and sampling uncertainty remain relevant.
 
+### [UK greenhouse gas reductions and NDC pathways](https://github.com/MohaAbdipour/uk-ghg-net-zero-pathways)
+
+An analysis of final DESNZ territorial emissions statistics and the reduction
+pace implied by the UK's 2030 and 2035 Nationally Determined Contributions.
+UK territorial emissions fell by 417.4 MtCO2e, or 52.8%, between 1990 and 2024,
+with electricity supply and industry accounting for 66.0% of the net reduction.
+From the final 2024 NDC-scope estimate, the corresponding compound reduction
+rates are 6.25% per year to 2030 and 7.93% per year to 2035. The analysis keeps
+historical observations, policy targets, diagnostic pathways and reporting
+scope uncertainty separate.
+
 ## Technical expertise
 
 **Hydrology:** flood-frequency analysis, low-flow analysis, rainfall-runoff
