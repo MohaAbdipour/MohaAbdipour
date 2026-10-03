@@ -46,6 +46,17 @@ rates are 6.25% per year to 2030 and 7.93% per year to 2035. The analysis keeps
 historical observations, policy targets, diagnostic pathways and reporting
 scope uncertainty separate.
 
+### [Yorkshire Water demand and weather](https://github.com/MohaAbdipour/UK_Yorkshire_Water_Demand_Weather)
+
+A daily demand forecasting study combining Yorkshire Water meter observations
+with Met Office HadUK-Grid regional weather. Chronological evaluation compares
+recent-demand baselines with Ridge regression across internal and external
+meters in two anonymised areas. Weather produces small, inconsistent gains;
+the largest main-comparison improvement is a 3.36% reduction in MAE for Area 2
+external-meter median consumption, using same-day observed weather. The study
+examines extreme readings and changing meter coverage, and distinguishes
+retrospective results from operational forecasting evidence.
+
 ## Technical expertise
 
 **Hydrology:** flood-frequency analysis, low-flow analysis, rainfall-runoff
